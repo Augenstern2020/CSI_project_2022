@@ -1,2 +1,4 @@
 # CSI_project_2022
-a_CSI_project
+## Indoor Seat Occupancy Classification with
+Wi-Fi Channel State Information and Machine
+Learning Methods
